@@ -20,6 +20,7 @@ function start() {
       if (hours < 10){
       hours = '0' + hours;
       }
+       mins = '0' +0
     }
     if (elapsed < 10){
        elapsed = '0' + elapsed;
